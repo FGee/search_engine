@@ -1,0 +1,13 @@
+## not tracking files as follow.
+
+*.o
+*.txt
+*.log
+*.a
+*.lib
+*.so
+*.xml
+
+tags
+core
+*.out
